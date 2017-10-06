@@ -1,0 +1,118 @@
+@media (max-width: 768px) {
+    body {
+        font-size: 5px;
+    }
+    body #jan-kowalski div {
+        height: 300px;
+    }
+    body #o-mnie {}
+    body #o-mnie h2 {
+        font-size: 8em;
+    }
+    body #o-mnie img {
+        display: block;
+        max-height: none;
+        max-width: none;
+        width: 40%;
+        float: none;
+        margin: auto;
+    }
+    body #o-mnie p {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 5%;
+        font-size: 4em;
+        margin-bottom: 10%;
+        text-align: center;
+    }
+    body #moje-umiejetnosci div h2 {
+        font-size: 8em;
+    }
+    body #moje-umiejetnosci p {
+        text-align: center;
+        font-size: 4em;
+    }
+    body #portfolio div {
+        margin-bottom: 0;
+    }
+    body #portfolio h2 {
+        font-size: 8em;
+        margin-bottom: 4%;
+    }
+    body #portfolio #portfolio1 {
+        width: 80%;
+        display: inherit;
+        margin: auto;
+    }
+    body #portfolio #portfolio2 {
+        width: 80%;
+        display: inherit;
+        margin: auto;
+    }
+    body #portfolio #portfolio4 {
+        width: 80%;
+        display: inherit;
+        margin: auto;
+    }
+    body #portfolio div #portfolio1 .layer {}
+    footer {
+        margin-top: 10%;
+    }
+    footer h1 {
+        height: 50px;
+        margin-left: 0;
+        padding-top: 0;
+        text-align: center;
+        font-size: 3em;
+    }
+    footer h1 span {
+        font-size: 3em;
+    }
+    footer adress {
+        width: 100%;
+        float: none;
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 2%;
+        font-size: 2em;
+    }
+    footer adress #street {
+        height: 50px;
+        width: 100%;
+        margin-left: 0;
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 2%;
+    }
+    footer adress #contact {
+        height: 50px;
+        width: 100%;
+        margin: 0;
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 3%;
+    }
+    footer form {
+        width: 80%;
+        float: none;
+        margin: auto;
+    }
+    footer form #form_wrapper #name {
+        width: 100%;
+        text-align: center;
+    }
+    footer form #form_wrapper #mail {
+        width: 100%;
+        text-align: center;
+    }
+    footer form #form_wrapper #message {
+        width: 100%;
+        text-align: center;
+    }
+    footer form #form_wrapper #button {
+        width: 100%;
+        float: none;
+        position: inherit;
+        right: 0;
+    }
+}
